@@ -8,7 +8,7 @@
 <div class="example-block">
 <p><strong>Input:</strong> <span class="example-io">nums = [2,2,1]</span></p>
 
-<p><strong>Output:</strong> <span class="example-io">1</span></p>
+<p><strong>Output:</strong> <span class="example-io">1</span></p> 
 </div>
 
 <p><strong class="example">Example 2:</strong></p>
